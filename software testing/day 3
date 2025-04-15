@@ -1,83 +1,67 @@
-# 📊 Report on `selenium-beginners` GitHub Repository
 
-## 🔗 Repository URL  
-[https://github.com/Shamanth-k/selenium-beginners](https://github.com/Shamanth-k/selenium-beginners)
+📊 Report on selenium-beginners GitHub Repository
 
-## 🎯 Objective  
-The `selenium-beginners` repository provides a beginner-friendly set of Python scripts demonstrating basic operations using **Selenium WebDriver** for browser automation. It serves as a practical guide for users new to automation testing.
+🔗 Repository URL  
+https://github.com/Shamanth-k/selenium-beginners
 
-## 📁 Repository Structure and File Descriptions
+🎯 Objective  
+The selenium-beginners repository provides a beginner-friendly set of Python scripts demonstrating basic operations using Selenium WebDriver for browser automation. It serves as a practical guide for users new to automation testing.
 
-The repository consists of 11 Python scripts along with supporting files like `README.md` and `.gitignore`. Each script highlights a specific functionality of Selenium, making it easier for learners to grasp the concepts step-by-step.
+
+The repository consists of 11 Python scripts along with supporting files like README.md and .gitignore. Each script highlights a specific functionality of Selenium, making it easier for learners to grasp the concepts step-by-step.
 
 ---
 
-### `01_Navigate_Url.py`  
+01_Navigate_Url.py  
 Demonstrates how to open a web browser and navigate to a URL using Selenium. It is the most basic and essential step in browser automation.
 
 ---
 
-### `02_Fill_Text.py`  
+02_Fill_Text.py  
 Shows how to locate input fields on a webpage and fill them with text. This functionality is crucial for form automation, login pages, and search engines.
 
 ---
 
-### `03_Set_Dropdown.py`  
+03_Set_Dropdown.py  
 Covers the automation of dropdown selections using visible text, value, or index. Dropdown handling is often used in settings, forms, and filters.
 
 ---
 
-### `04_Enable_Checkbox.py`  
+04_Enable_Checkbox.py  
 Explains how to identify and interact with checkboxes. Checkbox interaction is commonly used in settings, forms, and agreements.
 
 ---
 
-### `05_Click_Button.py`  
+05_Click_Button.py  
 Demonstrates how to find and click buttons using Selenium. Button clicks drive navigation, form submissions, and actions across websites.
 
 ---
 
-### `06_Form_Validation.py`  
+06_Form_Validation.py  
 Illustrates how to test form validations, such as checking for error messages or highlighting missing required fields.
 
 ---
 
-### `07_Form_Submit_Success.py`  
+07_Form_Submit_Success.py  
 Shows how to verify that a form was submitted successfully by detecting confirmation messages or redirected pages.
 
 ---
 
-### `08_Hover.py`  
+08_Hover.py  
 Uses action chains to hover over elements. Hovering is useful when dealing with dynamic menus or tooltips that appear on mouse-over.
 
 ---
 
-### `09_Count_Rows.py`  
+09_Count_Rows.py  
 Demonstrates how to count the number of rows in an HTML table. This can be used to confirm data loads or pagination results.
 
 ---
 
-### `10_Table_Text.py`  
+10_Table_Text.py  
 Explains how to extract and verify text from specific cells in a table. This is important for data validation in test automation.
 
 ---
 
-### `11_Consolidated_Test.py`  
+11_Consolidated_Test.py  
 A comprehensive script that consolidates multiple earlier functionalities into a single flow. It showcases how to perform multiple actions in sequence, simulating a complete test case.
 
----
-
-## 🧾 Supporting Files
-
-### `README.md`  
-This markdown file provides an overview of the project, installation instructions, and brief descriptions of the individual test scripts. It helps users get started quickly.
-
----
-
-### `.gitignore`  
-Specifies which files or directories Git should ignore. Common entries include temporary files, compiled bytecode, or environment-specific data.
-
----
-
-## ✅ Conclusion  
-The `selenium-beginners` repository serves as a well-structured, hands-on tutorial for individuals new to Selenium and automation testing. Each script focuses on a core concept, allowing learners to incrementally build their understanding of browser automation. The project is ideal for educational purposes, quick reference, and practice.
